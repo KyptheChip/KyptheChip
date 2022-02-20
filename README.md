@@ -2,7 +2,13 @@
 
 I'm currently working on becoming a Full-Stack Developer. For now I'm learning to work with Docker, but soon I'll mostly be practicing my Java Spring skills and React skills. I'm experienced in building responsive websites using Java, JavaScript, Spring and React. As a recent Codecool graduate, I'm looking to expand my portofolio and collaborate on something new.
 
-### Skill set:
+### Strengths:
+
+I have experience with Java, Spring, React, JavaScript and SQL. I'm good at intuitively finding the causes of most bugs, and for the ones I can't find the cause of I'm good at looking up the problem. Also worked with Flask in Python, but I haven't had practice with that in a while.
+
+### Personality:
+
+I'm a patient and mostly calm person. My hobbies are reading, video gaming, and exercising. I get along well with colleagues and, in general, I have a positive outlook.  I like to help whenever I can, but at times I don't ask for help as quick as I should because I like to figure things out for myself. I'm working on changing that, don't worry. Overall I work well in a team.
 
 <!--
 **KyptheChip/KyptheChip** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
