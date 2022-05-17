@@ -1,6 +1,7 @@
 ### Hi there 👋 I'm Ciprian!
 
-I'm currently working on becoming a Full-Stack Developer. For now I'm learning to work with Docker, but soon I'll mostly be practicing my Java Spring skills and React skills. I'm experienced in building responsive websites using Java, JavaScript, Spring and React. As a recent Codecool graduate, I'm looking to expand my portofolio and collaborate on something new.
+I'm currently working on becoming a Full-Stack Developer. I'm currently exploring the functional programming paradigm, besides the OOP paradigm. 
+I am interested in data science and machine learning.
 
 ### Strengths:
 
